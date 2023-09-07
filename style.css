@@ -1,6 +1,9 @@
 /*Huge thanks to @tobiasahlin at http://tobiasahlin.com/spinkit/ */
 .spinner {
+    position: absolute;
     text-align: center;
+    top: 50%;
+    left: 50%;
   }
   
   .spinner > span {
